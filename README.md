@@ -3,28 +3,16 @@
 
 **Jessica-miss/Jessica-miss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I love Michael Jackson
-
 <h1 align="center"> ✨ Jessica Mbounkap ✨ </h1>
 <h3 align="center">A Girl Exploring Big Data </h3>
 <img align=“right” alt=“Coding” width=“400” src="https://thumbs.gfycat.com/LightheartedComplexHake-size_restricted.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryan-foxy&label=Profile%20views&color=0e75b6&style=flat" alt="bryan-foxy" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning, Telecommunication, Image Processing**
+- 🌱 I’m currently learning **Deep Learning, Data Analysis, Data Security**
 
 - 💬 Ask me about **IA, New Technology**
 
-- 📫 How to reach me **fozybryan@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
