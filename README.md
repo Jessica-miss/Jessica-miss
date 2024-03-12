@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-**Jessica-miss/Jessica-miss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center"> ✨ Jessica Mbounkap ✨ </h1>
 <h3 align="center">A Girl Exploring Big Data </h3>
